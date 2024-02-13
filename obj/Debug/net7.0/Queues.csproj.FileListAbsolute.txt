@@ -1,0 +1,14 @@
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\bin\Debug\net7.0\Queues.exe
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\bin\Debug\net7.0\Queues.deps.json
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\bin\Debug\net7.0\Queues.runtimeconfig.json
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\bin\Debug\net7.0\Queues.dll
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\bin\Debug\net7.0\Queues.pdb
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\obj\Debug\net7.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\obj\Debug\net7.0\Queues.AssemblyInfoInputs.cache
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\obj\Debug\net7.0\Queues.AssemblyInfo.cs
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\obj\Debug\net7.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\obj\Debug\net7.0\Queues.dll
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\obj\Debug\net7.0\refint\Queues.dll
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\obj\Debug\net7.0\Queues.pdb
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\obj\Debug\net7.0\Queues.genruntimeconfig.cache
+C:\Users\ananmal.CRGS.000\Documents\g\Queues\obj\Debug\net7.0\ref\Queues.dll
